@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/mson-getting-started/static/js/main.f89f4853.chunk.js",
+    "main.js.map": "/mson-getting-started/static/js/main.f89f4853.chunk.js.map",
+    "runtime-main.js": "/mson-getting-started/static/js/runtime-main.5aad1297.js",
+    "runtime-main.js.map": "/mson-getting-started/static/js/runtime-main.5aad1297.js.map",
+    "static/css/2.84993eea.chunk.css": "/mson-getting-started/static/css/2.84993eea.chunk.css",
+    "static/js/2.d0819ec5.chunk.js": "/mson-getting-started/static/js/2.d0819ec5.chunk.js",
+    "static/js/2.d0819ec5.chunk.js.map": "/mson-getting-started/static/js/2.d0819ec5.chunk.js.map",
+    "index.html": "/mson-getting-started/index.html",
+    "precache-manifest.ee62eb71bdadc4caaf44221f8d180a12.js": "/mson-getting-started/precache-manifest.ee62eb71bdadc4caaf44221f8d180a12.js",
+    "service-worker.js": "/mson-getting-started/service-worker.js",
+    "static/css/2.84993eea.chunk.css.map": "/mson-getting-started/static/css/2.84993eea.chunk.css.map",
+    "static/media/index.css": "/mson-getting-started/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  }
+}
